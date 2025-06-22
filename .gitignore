@@ -1,3 +1,4 @@
 node_modules
 test-dont
 .DS_Store
+*.tgz
