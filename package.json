@@ -1,0 +1,26 @@
+{
+  "name": "@iankulin/is-even",
+  "version": "1.0.1",
+  "type": "module",
+  "description": "Check if a number is even",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node --test",
+    "lint": "npx eslint . --ext .js",
+    "format": "prettier --write ."
+  },
+  "author": "iankulin",
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/js": "^9.29.0",
+    "eslint": "^9.29.0",
+    "globals": "^16.2.0",
+    "prettier": "^3.5.3"
+  }
+}
