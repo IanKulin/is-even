@@ -1,4 +1,5 @@
-# @iankulin/is-even
+# @iankulin/is-even [![NPM version](https://img.shields.io/npm/v/@iankulin/is-even.svg?style=flat)](https://www.npmjs.com/package/@iankulin/is-even) [![NPM total downloads](https://img.shields.io/npm/dt/@iankulin/is-even.svg?style=flat)](https://npmjs.org/package/@iankulin/is-even)
+
 
 * A simple utility to check if a number is even.
 * Demo project for a [blog post](https://devendevour.wordpress.com/2024/10/14/code-reuse-by-publishing-to-npm/) about publishing code to npm.
