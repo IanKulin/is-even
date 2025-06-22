@@ -23,6 +23,7 @@ console.log(isEven(-2)); // true
 
 ## Changelog
 
+- **1.0.2** - 
 - **1.0.1** - added types
 - **1.0.0** - initial
 
