@@ -27,4 +27,5 @@ console.log(isEven(-2)); // true
 
 ## License
 
-MIT
+MIT  
+[Source](https://github.com/IanKulin/is-even)
