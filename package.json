@@ -1,6 +1,6 @@
 {
   "name": "@iankulin/is-even",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "module",
   "description": "Check if a number is even",
   "main": "index.js",
