@@ -2,7 +2,7 @@
 
 
 * A simple utility to check if a number is even.
-* Demo project for a [blog post](https://devendevour.wordpress.com/2024/10/14/code-reuse-by-publishing-to-npm/) about publishing code to npm.
+* Demo project for a [blog post](https://blog.iankulin.com/code-reuse-by-publishing-to-npm/) about publishing code to npm.
 
 ## Installation
 
@@ -26,6 +26,7 @@ console.log(isEven(-2)); // true
 - **1.0.0** - initial
 - **1.0.1** - added types
 - **1.0.3** - move to workflow for publishing
+- **1.0.4** - update blog link
 
 ## License
 
